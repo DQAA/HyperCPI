@@ -1,0 +1,1 @@
+Epoch	Time(sec)	Loss_train	AUC_dev	PRC_dev	acc_dev	F1_dev	P_dev	R_dev	AUC_test	PRC_test	acc_test	F1_test	P_test	R_test
